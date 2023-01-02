@@ -1,8 +1,8 @@
-import { Counter } from "./Counter/Counter";
+import { Modal } from "./Modal/Modal";
 
 function App() {
   return (
-    <Counter />
+    <Modal />
   );
 }
 
