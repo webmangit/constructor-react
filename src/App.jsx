@@ -1,9 +1,8 @@
+import Quiz from './Quiz/Quiz'
 
 function App() {
   return (
-    <div>
-      Constructor React
-    </div>
+    <Quiz />
   );
 }
 
