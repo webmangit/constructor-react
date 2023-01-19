@@ -1,8 +1,8 @@
 
 function App() {
   return (
-    <div>
-      Constructor React
+    <div className="wrapper">
+
     </div>
   );
 }
